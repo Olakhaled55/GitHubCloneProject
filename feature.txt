@@ -1,0 +1,4 @@
+cd GitHubCloneProject
+git add feature.txt
+git commit -m "Add feature description"
+git checkout main
